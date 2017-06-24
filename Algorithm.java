@@ -1,4 +1,6 @@
-
+/**
+ * @author David Espejo Antiñolo
+ */
 public class Alg {
 	static int startVal;
 	static int peak;
